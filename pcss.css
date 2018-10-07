@@ -1,0 +1,105 @@
+h1 {text-align: center;
+    font-family: sans-serif;
+    color: blue;
+
+
+}
+
+ h2 {
+	font-size: 40px;
+	text-align: center;
+	color: green;
+	font-style: bold;
+}
+h3 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 25px;
+    color:black;
+}
+
+.official { font-size: 25px;
+color: black;
+font-style: bold;
+position: absolute;
+top: 260px;
+left: 550px;
+
+
+-webkit-box-shadow: inset 7px 10px 126px 6px rgba(18,2,18,0.82);
+-moz-box-shadow: inset 7px 10px 126px 6px rgba(18,2,18,0.82);
+box-shadow: inset 7px 10px 126px 6px rgba(18,2,18,0.82);}
+
+
+input[type=text], input[type=password] {
+    width: 25%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+
+input[type=submit] {
+    width: 25%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+form {
+	border: 2px solid green;
+    text-align: center;
+    
+		
+}
+
+
+.abc{ font-size: 25px 
+color:green;}
+
+.form-container{
+-webkit-box-shadow: inset 7px 10px 126px 6px rgba(18,2,18,0.82);
+-moz-box-shadow: inset 7px 10px 126px 6px rgba(18,2,18,0.82);
+box-shadow: inset 7px 10px 126px 6px rgba(18,2,18,0.82);
+border-radius: 5px;
+
+}
+
+
+
+
+ ul {
+    list-style-type: none;
+    border-color: green;
+    border-width: 2px;
+    border-style: solid;
+    width: 12%;
+    line-height: 500%
+    
+   
+
+
+} 
+
+li a {
+    display: block;
+    font-size: 20px;
+    color: green;}
+
+
+
+
+
+
+
+
+
